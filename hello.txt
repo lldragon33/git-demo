@@ -15,3 +15,4 @@ hello world! hello java!
 hello world! hello java! master test
 hello world! hello java! hot-fix test
 11111111111111111111111
+test for clone client push
